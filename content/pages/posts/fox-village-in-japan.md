@@ -1,5 +1,5 @@
 ---
-title: 创建博客
+title: 创建博客01
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
