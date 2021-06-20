@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 主页
 has_more_link: true
 more_link_text: Keep reading
 seo:
