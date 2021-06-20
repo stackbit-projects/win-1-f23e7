@@ -61,4 +61,4 @@ seo:
 layout: contact
 subtitle: 小博客，有事请联系。
 ---
-邮箱
+邮箱:longfanfanqq@163.com
