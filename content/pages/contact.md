@@ -59,7 +59,7 @@ seo:
       value: images/contact.jpg
       relativeUrl: true
 layout: contact
-subtitle: 个人小博客，有事请联系xi
+subtitle: 个人小博客，有事请联系
 ---
 
 To get in touch fill the form below.
