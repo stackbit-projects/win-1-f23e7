@@ -59,6 +59,6 @@ seo:
       value: images/contact.jpg
       relativeUrl: true
 layout: contact
-subtitle: 个人博客，有事请联系。内容如果
+subtitle: 博客，有事请联系。内容如果侵犯您的版权或其他利益，请联系删除。
 ---
 邮箱:longfanfanqq@163.com
