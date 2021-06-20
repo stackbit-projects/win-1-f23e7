@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: 联系方式
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: /success
