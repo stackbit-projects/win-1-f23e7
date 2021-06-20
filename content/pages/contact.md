@@ -61,5 +61,4 @@ seo:
 layout: contact
 subtitle: 小博客，有事请联系。
 ---
-
-To get in touch fill the form below.
+邮箱
