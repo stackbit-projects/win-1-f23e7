@@ -37,28 +37,7 @@ export default class Contact extends React.Component {
                             {subtitle && <div className="post-subtitle">{htmlToReact(subtitle)}</div>}
                             <div className="post-content">
                                 {markdownContent && markdownify(markdownContent)}
-                                <form
-                                    name={formId}
-                                    id={formId}
-                                    {...(formAction ? ({ action: formAction }) : null)}
-                                    method="POST"
-                                    data-netlify="true"
-                                    data-netlify-honeypot={formHoneypotName}
-                                >
-                                    <div className="screen-reader-text">
-                                        <label id={formHoneypotLabelId} htmlFor={formHoneypotInputId}>
-                                            Don't fill this out if you're human: 
-                                            <input aria-labelledby={formHoneypotLabelId} id={formHoneypotInputId} name={formHoneypotName} />
-                                        </label>
-                                    </div>
-                                    <input type="hidden" name="form-name" value={formId} />
-                                    {_.map(formFields, (field, index) => (
-                                        <FormField key={index} field={field} />
-                                    ))}
-                                    <div className="form-submit">
-                                        <button type="submit" className="button">{submitLabel}</button>
-                                    </div>
-                                </form>
+                                
                             </div>
                         </article>
                     </main>
