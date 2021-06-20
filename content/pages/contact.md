@@ -59,6 +59,7 @@ seo:
       value: images/contact.jpg
       relativeUrl: true
 layout: contact
+subtitle: xia
 ---
 
 To get in touch fill the form below.
