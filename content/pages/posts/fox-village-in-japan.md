@@ -3,7 +3,7 @@ title: 创建博客
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
-excerpt: 博客创建的第一天，hai
+excerpt: 博客创建的第一天，还在学习
 date: '2020-06-20'
 thumb_img_path: /images/home.jpg
 thumb_img_alt: A red fox sitting on a meadow
