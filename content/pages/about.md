@@ -1,6 +1,6 @@
 ---
 title: 网站推荐
-subtitle: This is a short page about me and my work
+subtitle: 从这里打开不一样的世界
 img_path: images/about.jpg
 seo:
   title: About Me
